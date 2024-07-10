@@ -1,3 +1,5 @@
+```proto
+
 syntax = "proto3";
 option csharp_namespace = "AMCDS.Protos";
 package pb;
